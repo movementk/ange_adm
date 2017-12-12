@@ -215,6 +215,21 @@
                                         </td>
                                     </tr>
                                     <tr>
+                                        <th class="essential">전화번호</th>
+                                        <td class="phone">
+                                            <div class="form-group">
+                                               <label for="phone-1" class="sr-only">전화번호1</label>
+                                                <input type="text" id="phone-1" class="form-control">
+                                                <span>-</span>
+                                                <label for="phone-2" class="sr-only">전화번호2</label>
+                                                <input type="text" id="phone-2" class="form-control">
+                                                <span>-</span>
+                                                <label for="phone-3" class="sr-only">전화번호3</label>
+                                                <input type="text" id="phone-3" class="form-control">
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
                                         <th class="essential">제한구분</th>
                                         <td>
                                             <div class="form-group">
